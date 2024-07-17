@@ -5,7 +5,8 @@
 
  <div id="header" align="center">
   
-  ✧༺Enshu༻✧  
+✧༺Enshu༻✧
+
 [She\her He\him] 
   
 16 Y.O

@@ -12,7 +12,7 @@
 16 Y.O
  <div id="header" align="center">
   
- Info Tgc: @Enshuinfo @Shlakadosik
+ Info Tgc: @Enshuinfo \ @Shlakadosik
  
  VK: @etischu
  

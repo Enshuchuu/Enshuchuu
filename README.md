@@ -9,7 +9,7 @@
 
 [She\her He\him] 
   
-17 Y.O
+18 Y.O
  <div id="header" align="center">
   
  Info Tgc: @Enshuinfo \ @Shlakadosik
